@@ -82,4 +82,4 @@ knife4j:
           - com.yupi.yupicturebackend.controller
 # 阿里云 AI 配置
 aliYunAi:
-  apiKey: sk-814f02452e5c433292fc61a71a2fe25c
+  apiKey: 
